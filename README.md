@@ -5,4 +5,4 @@ I made this, how 'bow that
 it does
  - this
  - that
- - `eveything`
+ - `everything`
