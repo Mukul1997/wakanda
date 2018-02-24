@@ -4,11 +4,11 @@ language: c
 dist: trusty
 sudo: true
 compiler:
-	 - gcc
+  - gcc
 
 before_script:
-	- sudo apt-get update
-	- sudo apt install gcc
+  - sudo apt-get update
+  - sudo apt install gcc
 
 script:
 	- gcc -o prog prog1.c
