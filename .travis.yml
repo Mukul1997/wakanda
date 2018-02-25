@@ -11,4 +11,4 @@ before_script:
   - sudo apt install gcc
 
 script:
-	- gcc -o prog prog1.c
+  - gcc -o prog prog1.c
